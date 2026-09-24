@@ -11,6 +11,8 @@
 **[FluentClipper-1.0.1-Setup.exe](https://github.com/DmitryN71/FluentClipper/releases/latest)** —
 раздел [Releases](https://github.com/DmitryN71/FluentClipper/releases).
 
+Обсуждение — [тема на форуме Ru.Board](https://forum.ru-board.com/topic.cgi?forum=5&topic=51828).
+
 Ставится только для текущего пользователя, права администратора не нужны. Установщик не подписан,
 поэтому Windows может показать «Система Windows защитила ваш компьютер»: «Подробнее» →
 «Выполнить в любом случае».
