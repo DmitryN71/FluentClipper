@@ -1,6 +1,6 @@
 # FluentClipper privacy policy
 
-Last updated: September 29, 2026
+Last updated: September 30, 2026
 
 FluentClipper is a clipboard manager for Windows made by Dmitry Novikov. It does not collect, send,
 share or sell any personal data. There are no accounts, no ads, no analytics and no telemetry.
@@ -41,7 +41,7 @@ encrypted.
 
 ## Deleting your data
 
-Settings → Storage clears the history. Uninstalling the Microsoft Store version leaves your data in
+Settings → History clears the history. Uninstalling the Microsoft Store version leaves your data in
 `%APPDATA%\FluentClipper`, so the version from GitHub can keep using it; delete that folder to remove
 everything. The installer from GitHub asks whether to delete it.
 
@@ -53,7 +53,7 @@ Questions and issues: https://github.com/DmitryN71/FluentClipper/issues
 
 # Конфиденциальность FluentClipper
 
-Обновлено 29 сентября 2026 года
+Обновлено 30 сентября 2026 года
 
 FluentClipper — менеджер буфера обмена для Windows, автор — Дмитрий Новиков. Программа не собирает,
 не отправляет, не передаёт и не продаёт никаких личных данных. Нет учётных записей, рекламы, аналитики
@@ -94,7 +94,7 @@ FluentClipper — менеджер буфера обмена для Windows, а�
 
 ## Как удалить данные
 
-Историю очищает раздел настроек «Хранение». После удаления версии из Microsoft Store данные остаются
+Историю очищает раздел настроек «История». После удаления версии из Microsoft Store данные остаются
 в `%APPDATA%\FluentClipper`, чтобы ими могла пользоваться версия с GitHub; чтобы стереть всё, удалите
 эту папку. Установщик с GitHub при удалении спрашивает, стирать ли её.
 
