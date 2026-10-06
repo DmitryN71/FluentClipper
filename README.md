@@ -72,8 +72,9 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   window, up to its real size (small previews are an option).
 - **Stars** — starred clips are never cleaned up and are gathered in the Starred tab.
 - **Search** by text and by the app a clip was copied from, **by date** in a calendar and **by kind**
-  (text, formatted text, links, pictures, files); matches are highlighted. The search box sits at the
-  bottom of the window or, if you prefer, at the top, under the tabs.
+  (text, formatted text, links, pictures, files); matches are highlighted. A search on Clips finds the
+  templates of every tab too, after the history, each with its tab and folder: everything saved, from one
+  box. The search box sits at the bottom of the window or, if you prefer, at the top, under the tabs.
 - **Sorting** of Clips and Starred — by date, name, app, how often used or size, each tab its own
   (right-click the tab).
 - **Several clips at once** (Shift/Ctrl+click): paste them together, in the order you picked them, with
