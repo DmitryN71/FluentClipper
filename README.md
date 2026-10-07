@@ -83,7 +83,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
 - **Editing formatted clips** — F2 opens text from Word, Outlook, Excel, WordPad or a browser on a white
   page: tables, bold, links and pictures stay in place, and you edit right in them. Buttons: font size,
   bold, italic, underline, strikethrough, lists, link, clear formatting. A template made from such a
-  clip keeps its formatting. Can be turned off.
+  clip keeps its formatting. Plain text gets formatting too (**Add formatting** in the same window), and
+  **Clear formatting** in the menu turns formatted clips and templates into plain text. Can be turned off.
 - **Drag and drop** a clip into any field of any app; with Shift, just the text.
 - **No dark background** — text copied from a page in a dark theme (ChatGPT, GitHub…) is pasted, copied
   and dragged without its colors; fonts, sizes, bold and tables stay.
