@@ -100,7 +100,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   picture in the image viewer, files and folders by themselves.
 - **Light and dark themes** in the Windows 11 style, with the Windows accent color or one of 48 Windows
   colors; changes of the Windows color and theme are picked up on the fly. Sharp at any display scale;
-  text size in the list from 80 to 150% (Ctrl+mouse wheel over the list), big toolbar buttons for a
+  text size in the list from 80 to 150% (Ctrl+mouse wheel over the list), colorful toolbar icons
+  (Fluent Emoji) if you like them, big toolbar buttons for a
   large monitor. A more compact window if you like: without the Windows title bar, or without the
   title bar and the toolbar (its commands then go under "⋯" by the tabs); toolbar buttons that don't fit
   a narrow window go under "⋯" at its end. Dates in the list are short, with the month as a word or a
