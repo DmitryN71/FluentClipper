@@ -41,6 +41,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   Ctrl+1…Ctrl+0 paste one of the first ten clips.
 - **Double Ctrl or Shift** — if you like, the window also opens on a key pressed twice quickly on its
   own (Ctrl+C and Ctrl+click don't count). Off by default.
+- **Win+V instead of the Windows clipboard history** — if you like, Win+V opens FluentClipper while it's
+  running; close the program, and Win+V opens the Windows history again. Off by default.
 - **Ctrl+Shift+Insert** in any app pastes the clipboard as plain text (values only, in Excel).
 - **Quick paste of an older or newer clip**, like Alt+Tab: with shortcuts of your own (say,
   Ctrl+Shift+↓/↑) hold Ctrl+Shift and press the arrows, a card at the cursor shows the clip; let go,
@@ -100,8 +102,7 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   picture in the image viewer, files and folders by themselves.
 - **Light and dark themes** in the Windows 11 style, with the Windows accent color or one of 48 Windows
   colors; changes of the Windows color and theme are picked up on the fly. Sharp at any display scale;
-  text size in the list from 80 to 150% (Ctrl+mouse wheel over the list), colorful toolbar icons
-  (Fluent Emoji) if you like them, big toolbar buttons for a
+  text size in the list from 80 to 150% (Ctrl+mouse wheel over the list), big toolbar buttons for a
   large monitor. A more compact window if you like: without the Windows title bar, or without the
   title bar and the toolbar (its commands then go under "⋯" by the tabs); toolbar buttons that don't fit
   a narrow window go under "⋯" at its end. Dates in the list are short, with the month as a word or a
