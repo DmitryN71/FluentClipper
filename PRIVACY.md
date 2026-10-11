@@ -1,6 +1,6 @@
 # FluentClipper privacy policy
 
-Last updated: September 30, 2026
+Last updated: October 11, 2026
 
 FluentClipper is a clipboard manager for Windows made by Dmitry Novikov. It does not collect, send,
 share or sell any personal data. There are no accounts, no ads, no analytics and no telemetry.
@@ -21,6 +21,10 @@ share or sell any personal data. There are no accounts, no ads, no analytics and
   Microsoft Store.
 - The version from GitHub asks GitHub for the number of the latest version once a day and sends nothing
   else. This can be turned off in Settings → About.
+- A new version is downloaded only when you click **Update** (Settings → About) or the note about it
+  by the clock: the installer or the portable ZIP of that release, from this repository only. Before it
+  is run or put in place, its size and SHA-256 are compared with the ones GitHub gives for that file;
+  if they differ, nothing is changed.
 - Web links open in your browser only when you click "Open in browser".
 - The editor for formatted text runs on Microsoft Edge WebView2, only while it is open, and loads
   nothing from the internet: web pictures in copied text are not shown, scripts are not run.

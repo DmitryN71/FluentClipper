@@ -38,7 +38,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   files and folders. Copying the same thing again doesn't make a duplicate: the old clip moves to the top.
 - **Win+Alt+V** opens the window at your text cursor: type a couple of letters to search, press Enter
   to paste where you were typing. Shift+Enter (or the clip's menu) pastes without formatting,
-  Ctrl+1…Ctrl+0 paste one of the first ten clips.
+  Ctrl+1…Ctrl+0 paste one of the first ten clips. If you'd rather paste without formatting by default,
+  Settings → Pasting and editing → **Default paste** swaps the two.
 - **Double Ctrl or Shift** — if you like, the window also opens on a key pressed twice quickly on its
   own (Ctrl+C and Ctrl+click don't count). Off by default.
 - **Win+V instead of the Windows clipboard history** — if you like, Win+V opens FluentClipper while it's
@@ -130,7 +131,10 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
 The program goes online for one thing only: the number of the latest version. Once a day it asks
 GitHub for it and sends nothing else; turn it off in Settings → About → **Check for updates**. If GitHub
 can't be reached (or a firewall keeps the program offline), the download page opens in your browser.
-Whether to download and install a new version is always up to you.
+Whether to download and install a new version is always up to you: **Update** in Settings → About (or a
+click on the note about the new version) downloads it from this repository's releases, compares its
+SHA-256 with GitHub's, installs it and starts the program again; the portable version replaces its own
+FluentClipper.exe and leaves the `Data` folder alone.
 
 The editor of formatted text runs on Edge WebView2, built into Windows, only while it's open, and
 never goes online: pictures linked from websites are not shown, scripts from copied pages are not run.
