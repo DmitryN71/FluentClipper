@@ -69,7 +69,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   newest edit wins, deletions and removed stars reach every computer, identical templates don't double up.
 - **Templates in Excel** — all templates are exported as one table: in Excel it's easy to rename them,
   sort them into tabs and folders and assign abbreviations (conflicts are highlighted right in the
-  table), then import the table back. Before writing anything, the program shows every change and
+  table), then import the table back. New rows with a text and no ID become new templates, so a whole
+  set of them can be typed in Excel. Before writing anything, the program shows every change and
   backs up the database.
 - **Preview card** next to the list shows the whole clip; a picture takes all the free room next to the
   window, up to its real size (small previews are an option).
