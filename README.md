@@ -44,6 +44,9 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   own (Ctrl+C and Ctrl+click don't count). Off by default.
 - **Win+V instead of the Windows clipboard history** — if you like, Win+V opens FluentClipper while it's
   running; close the program, and Win+V opens the Windows history again. Off by default.
+- **A mouse button** — the middle one, Back (X1) or Forward (X2), held down opens the window at the mouse
+  pointer; a short press still does what it always did (back in the browser, a link in a new tab). How
+  long to hold it is up to you. Off by default.
 - **Ctrl+Shift+Insert** in any app pastes the clipboard as plain text (values only, in Excel).
 - **Quick paste of an older or newer clip**, like Alt+Tab: with shortcuts of your own (say,
   Ctrl+Shift+↓/↑) hold Ctrl+Shift and press the arrows, a card at the cursor shows the clip; let go,
