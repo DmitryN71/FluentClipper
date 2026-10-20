@@ -116,8 +116,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   title bar and the toolbar (its commands then go under "⋯" by the tabs); toolbar buttons that don't fit
   a narrow window go under "⋯" at its end. Dates in the list are short, with the month as a word or a
   number, in your Windows regional format; rows can alternate colors. At the left of a row: the icon of
-  the clip's kind, of the app it was copied from, or both; a picture can show itself there, shrunk to the
-  height of the row. Settings are split into sections,
+  the clip's kind, of the app it was copied from, or both; a picture, or a copied picture file, can show
+  itself there, shrunk to the height of the row. Settings are split into sections,
   like Windows 11 Settings, with a **search box** above them (Ctrl+F): words in any order, and a query
   typed in the wrong keyboard layout is found too.
 - **One .exe** with no .NET or other runtimes; starts instantly.
