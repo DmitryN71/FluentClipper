@@ -39,7 +39,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
 - **Win+Alt+V** opens the window at your text cursor: type a couple of letters to search, press Enter
   to paste where you were typing. Shift+Enter (or the clip's menu) pastes without formatting,
   Ctrl+1…Ctrl+0 paste one of the first ten clips. If you'd rather paste without formatting by default,
-  Settings → Pasting and editing → **Default paste** swaps the two.
+  Settings → Pasting and editing → **Default paste** swaps the two. If you like, the window stays where it
+  is after a paste, too: handy when it sits at the side of a big monitor.
 - **Double Ctrl or Shift** — if you like, the window also opens on a key pressed twice quickly on its
   own (Ctrl+C and Ctrl+click don't count). Off by default.
 - **Win+V instead of the Windows clipboard history** — if you like, Win+V opens FluentClipper while it's
@@ -82,7 +83,9 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
 - **Search** by text and by the app a clip was copied from, **by date** in a calendar and **by kind**
   (text, formatted text, links, pictures, files); matches are highlighted. A search on Clips finds the
   templates of every tab too, after the history, each with its tab and folder: everything saved, from one
-  box. The search box sits at the bottom of the window or, if you prefer, at the top, under the tabs.
+  box. The search box sits at the bottom of the window or, if you prefer, at the top, under the tabs; it
+  can be hidden as well and shows up as soon as you start typing (Ctrl+F brings it with the calendar and
+  the filter).
 - **Sorting** of Clips and Starred — by date, name, app, how often used or size, each tab its own
   (right-click the tab).
 - **Several clips at once** (Shift/Ctrl+click): paste them together, in the order you picked them, with
@@ -112,8 +115,11 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   large monitor. A more compact window if you like: without the Windows title bar, or without the
   title bar and the toolbar (its commands then go under "⋯" by the tabs); toolbar buttons that don't fit
   a narrow window go under "⋯" at its end. Dates in the list are short, with the month as a word or a
-  number, in your Windows regional format; rows can alternate colors. Settings are split into sections,
-  like Windows 11 Settings.
+  number, in your Windows regional format; rows can alternate colors. At the left of a row: the icon of
+  the clip's kind, of the app it was copied from, or both; a picture can show itself there, shrunk to the
+  height of the row. Settings are split into sections,
+  like Windows 11 Settings, with a **search box** above them (Ctrl+F): words in any order, and a query
+  typed in the wrong keyboard layout is found too.
 - **One .exe** with no .NET or other runtimes; starts instantly.
 
 ## Screenshots
