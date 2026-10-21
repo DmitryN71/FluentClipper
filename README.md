@@ -63,7 +63,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   own: drag a template up or down.
 - **Template folders** inside a tab (Ctrl+Shift+N): drop a template on a folder or use **Move to**;
   a folder opens with a click, Enter or the Right arrow. Search goes through the folders, folder names
-  included.
+  included. A folder can have a color, and a thin line can set templates apart (**Line under the
+  template** in a template's menu).
 - **Abbreviations, like in Espanso** — a template's abbreviation typed in any app is replaced with the
   template: \sig — your signature, \addr — your address. The keyboard layout doesn't matter (an
   abbreviation is the keys you press), case sensitivity is up to you, and conflicts like \a and \addr
