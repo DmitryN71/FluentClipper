@@ -53,7 +53,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
 - **Quick paste of an older or newer clip**, like Alt+Tab: with shortcuts of your own (say,
   Ctrl+Shift+↓/↑) hold Ctrl+Shift and press the arrows, a card at the cursor shows the clip; let go,
   and it's pasted and stays on the clipboard.
-- **Tray icon** — its tip shows the start of what's on the clipboard (can be turned off). In its menu,
+- **Tray icon** — a click opens the window, another click closes it; its tip shows the start of what's on
+  the clipboard (can be turned off). In its menu,
   **Clipboard recording** (the icon turns gray while it's paused) and **Abbreviations** are switches
   that flip without closing the menu; **Sync now** is there too.
 - **Windows 11 style menus** everywhere: icons, shortcuts, submenus, the colors of the theme. From
@@ -65,8 +66,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   a folder opens with a click, Enter or the Right arrow. Search goes through the folders, folder names
   included. A folder can have a color, and a thin line can set templates apart (**Line under the
   template** in a template's menu).
-- **Abbreviations, like in Espanso** — a template's abbreviation typed in any app is replaced with the
-  template: \sig — your signature, \addr — your address. The keyboard layout doesn't matter (an
+- **Abbreviations, like in Espanso** — a template's abbreviation typed at the start of a word in any app is
+  replaced with the template: \sig — your signature, \addr — your address. The keyboard layout doesn't matter (an
   abbreviation is the keys you press), case sensitivity is up to you, and conflicts like \a and \addr
   are pointed out. If you like, an abbreviation waits for Space, Tab or Enter, with a tip by the text
   cursor showing what it will put in; then \a no longer gets in the way of \addr. Espanso rules are
