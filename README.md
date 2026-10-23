@@ -68,7 +68,9 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
 - **Abbreviations, like in Espanso** — a template's abbreviation typed in any app is replaced with the
   template: \sig — your signature, \addr — your address. The keyboard layout doesn't matter (an
   abbreviation is the keys you press), case sensitivity is up to you, and conflicts like \a and \addr
-  are pointed out. Espanso rules are brought over on the first start. Off by default.
+  are pointed out. If you like, an abbreviation waits for Space, Tab or Enter, with a tip by the text
+  cursor showing what it will put in; then \a no longer gets in the way of \addr. Espanso rules are
+  brought over on the first start. Off by default.
 - **Sync between computers** — templates (with their tabs, folders, formatting, pictures,
   abbreviations and order) and starred clips travel through a folder of any cloud: OneDrive, Google
   Drive, Dropbox, Synology Drive, a network drive. Each computer keeps one file of its own there; the
@@ -98,6 +100,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   clip keeps its formatting. Plain text gets formatting too (**Add formatting** in the same window), and
   **Clear formatting** in the menu turns formatted clips and templates into plain text. Can be turned off.
 - **Drag and drop** a clip into any field of any app; with Shift, just the text.
+- **Sounds**, if you like: a new clip in the history, a paste, an abbreviation tip — one of three quiet
+  sounds of the program or a .wav file of your own.
 - **No dark background** — text copied from a page in a dark theme (ChatGPT, GitHub…) is pasted, copied
   and dragged without its colors; fonts, sizes, bold and tables stay.
 - **Passwords are not recorded** — whatever password managers mark as secret is skipped. You can also
@@ -110,6 +114,8 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
   addresses it shows a menu of them. The program itself never follows links.
 - **Open in default app** (the clip's menu): text in Notepad, formatted text in Word or WordPad, a
   picture in the image viewer, files and folders by themselves.
+- **Pictures as files** (a picture's menu): **Paste as a file** pastes it as a PNG named by when it was
+  copied, so a chat that takes one picture per name gets them all; **Save picture as…** saves it.
 - **Light and dark themes** in the Windows 11 style, with the Windows accent color or one of 48 Windows
   colors; changes of the Windows color and theme are picked up on the fly. Sharp at any display scale;
   text size in the list from 80 to 150% (Ctrl+mouse wheel over the list), big toolbar buttons for a
