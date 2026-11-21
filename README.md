@@ -150,10 +150,12 @@ English or Russian. There is also a [forum thread on Ru.Board](https://forum.ru-
 The program goes online for one thing only: the number of the latest version. Once a day it asks
 GitHub for it and sends nothing else; turn it off in Settings → About → **Check for updates**. If GitHub
 can't be reached (or a firewall keeps the program offline), the download page opens in your browser.
-Whether to download and install a new version is always up to you: **Update** in Settings → About (or a
-click on the note about the new version) downloads it from this repository's releases, compares its
-SHA-256 with GitHub's, installs it and starts the program again; the portable version replaces its own
-FluentClipper.exe and leaves the `Data` folder alone.
+Whether to download and install a new version is always up to you: when one is out, the app shows a
+notification from the tray, a line in the tray icon's tooltip and an **Update to …** item at the top of
+the tray menu (if you miss the notification, it reminds up to twice more 3 days apart while you are at
+the PC). Clicking the notification, the menu item or **Update** in Settings → About downloads it from
+this repository's releases, compares its SHA-256 with GitHub's, installs it and starts the program
+again; the portable version replaces its own FluentClipper.exe and leaves the `Data` folder alone.
 
 The editor of formatted text runs on Edge WebView2, built into Windows, only while it's open, and
 never goes online: pictures linked from websites are not shown, scripts from copied pages are not run.
